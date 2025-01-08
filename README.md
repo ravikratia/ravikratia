@@ -13,7 +13,7 @@
 ###
 
 <p align="left">✨ Creating bugs since 17 <br> 
-- 👀 I’m interested in Videos, Mobile photography, cycling, playing cricket and Youtube Blogging...<br>  
+- 👀 I’m interested in Coding, Mobile photography, cycling, playing cricket and Youtube Blogging...<br>  
 - 💞️ I’m looking to collaborate on learning programming languages python and Java...<br>
 - 📫 How to reach me on Insta @ravikratia03<br>
 - 😄 Pronouns: Rvk <br>
