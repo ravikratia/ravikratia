@@ -15,7 +15,7 @@
 <p align="left">✨ Creating bugs since 17 <br> 
 - 👀 I’m interested in Coding, Mobile photography, cycling, playing cricket and Youtube Blogging...<br>  
 - 💞️ I’m looking to collaborate on learning programming languages python and Java...<br>
-- 📫 How to reach me on Insta @ravikratia03<br>
+- 📫 How to reach me on  https://www.linkedin.com/in/ravikratia <br>
 - 😄 Pronouns: Rvk <br>
 - 📚 I'm currently learning Geodatabases, Android Studiod, Spatial Data Science, Mobile Gis, Python, Java  <br>
 - 🎯 Goals: Increase my programming skills <br>
