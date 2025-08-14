@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is Ravi  and I'm studying Geomatics </p>
+<p align="left">My name is Ravi Kumar and I'm studying Geomatics at HKA</p>
 
 ###
 
@@ -17,7 +17,7 @@
 - 💞️ I’m looking to collaborate on learning programming languages python and Java...<br>
 - 📫 How to reach me on  https://www.linkedin.com/in/ravikratia <br>
 - 😄 Pronouns: Rvk <br>
-- 📚 I'm currently learning Geodatabases, Android Studiod, Spatial Data Science, Mobile Gis, Python, Java  <br>
+- 📚 I'm currently learning Geodatabases, Android Studiod, Spatial Data Science, Mobile Gis, Python, Java, Autodesk Revit  <br>
 - 🎯 Goals: Increase my programming skills <br>
 - 🎲 Fun fact: I am a Student </p>
 
